@@ -6,23 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.osgi_3.18.400.v20230509-2241.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.osgi_3.18.400.v20230509-2241.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.core.commands_3.11.0.v20230317-0802.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.core.commands_3.11.0.v20230317-0802.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.equinox.common_3.18.0.v20230523-2142.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.equinox.common_3.18.0.v20230523-2142.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.200.v20220817-1601.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.200.v20220817-1601.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.core.runtime_3.27.0.v20230515-1719.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.core.runtime_3.27.0.v20230515-1719.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.text_3.13.0.v20230316-1200.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.text_3.13.0.v20230316-1200.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.124.0.v20230523-1044.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.124.0.v20230523-1044.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.jface_3.30.0.v20230509-0720.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.jface_3.30.0.v20230509-0720.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.jface.text_3.24.0.v20230525-0719.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.jface.text_3.24.0.v20230525-0719.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.ui.workbench_3.129.0.v20230525-0648.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.ui.workbench_3.129.0.v20230525-0648.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/com.ibm.icu_73.1.0.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/com.ibm.icu_73.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/coelh/.p2/pool/plugins/org.eclipse.ui.forms_3.12.0.v20230317-0802.jar" sourcepath="C:/Users/coelh/.p2/pool/plugins/org.eclipse.ui.forms_3.12.0.v20230317-0802.jar"/>
-	<classpathentry kind="lib" path="lib/activemq-all-5.18.3.jar"/>
-	<classpathentry kind="lib" path="lib/jackson-annotations-2.15.3.jar"/>
-	<classpathentry kind="lib" path="lib/jackson-core-2.15.3.jar"/>
-	<classpathentry kind="lib" path="lib/jackson-databind-2.15.3.jar"/>
-	<classpathentry kind="lib" path="lib/log4j-api-2.20.0.jar"/>
-	<classpathentry kind="lib" path="lib/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/coelh/Documents/Faculdade/PPD/messenger-server/lib/activemq-all-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/coelh/Documents/Faculdade/PPD/messenger-server/lib/jackson-annotations-2.15.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/coelh/Documents/Faculdade/PPD/messenger-server/lib/jackson-core-2.15.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/coelh/Documents/Faculdade/PPD/messenger-server/lib/jackson-databind-2.15.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/coelh/Documents/Faculdade/PPD/messenger-server/lib/log4j-core-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/coelh/Documents/Faculdade/PPD/messenger-server/lib/log4j-api-2.21.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
